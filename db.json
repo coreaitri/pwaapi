@@ -1,0 +1,96 @@
+{
+"Airport": 
+[{
+  "id": 1,
+  "Nama": "Sultan Iskandar Muda - BTJ",
+  "Kota": "Banda Aceh"
+}, {
+  "id": 2,
+  "Nama": "	Kuala Namu - KNO",
+  "Kota": "Medan"
+}, {
+  "id": 3,
+  "Nama": "Minangkabau International Airport - PDG",
+  "Kota": "Padang"
+}, {
+  "id": 4,
+  "Nama": "Sultan Syarif Kasim II - PKU",
+  "Kota": "Pekanbaru"
+}, {
+  "id": 5,
+  "Nama": "Hang Nadim - BTH ",
+  "Kota": "Batam"
+}, {
+  "id": 6,
+  "Nama": "	Sultan Mahmud Badaruddin II - PLM ",
+  "Kota": "Palembang"
+}, {
+  "id": 7,
+  "Nama": "	Fatmawati Soekarno - BKS",
+  "Kota": "Bengkulu"
+}, {
+  "id": 8,
+  "Nama": "	Sultan Thaha - DJB",
+  "Kota": "Jambi"
+}, {
+  "id": 9,
+  "Nama": "Radin Inten II - TKG",
+  "Kota": "Lampung"
+}, {
+  "id": 10,
+  "Nama": "Halim Perdana Kusuma - HLP",
+  "Kota": "Jakarta"
+}, {
+  "id": 11,
+  "Nama": "	Soekarno Hatta -CGK",
+  "Kota": "Tangerang "
+}, {
+  "id": 12,
+  "Nama": "Husein Sastranegara - BDO",
+  "Kota": "Bandung"
+}, {
+  "id": 13,
+  "Nama": "	Ahmad Yani - SRG",
+  "Kota": "Semarang"
+}, {
+  "id": 14,
+  "Nama": "Adi Sutjipto - JOG",
+  "Kota": "Yogyakarta"
+}, {
+  "id": 15,
+  "Nama": "Abdurrahman Saleh - MLG",
+  "Kota": "Malang"
+}, {
+  "id": 16,
+  "Nama": "Ngurah Rai - DPS",
+  "Kota": "Denpasar"
+}, {
+  "id": 17,
+  "Nama": "Iskandar - PKN",
+  "Kota": " Kalimantan Tengah"
+}, {
+  "id": 18,
+  "Nama": "	Haluoleo - KDI",
+  "Kota": "Sulawesi Tenggara"
+}, {
+  "id": 19,
+  "Nama": "Djalaluddin - GTO",
+  "Kota": "Gorontalo"
+}, {
+  "id": 20,
+  "Nama": "Lombok Praya - LOP ",
+  "Kota": "Lombok "
+}, {
+  "id": 21,
+  "Nama": "	El Tari - KOE ",
+  "Kota": "	El Tari"
+}, {
+  "id": 22,
+  "Nama": "Mopah - MKQ",
+  "Kota": "Merauke"
+}, {
+  "id": 23,
+  "Nama": "	Sultan Babullah - TTE",
+  "Kota": "Ternate"
+}]
+}
